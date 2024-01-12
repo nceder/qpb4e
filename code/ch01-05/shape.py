@@ -22,5 +22,4 @@ class Circle(Shape):            #5
         """Circle area method: returns the area of the circle."""
         return self.radius * self.radius * self.pi
     def __str__(self):                      #8
-        return "Circle of radius %s at coordinates (%d, %d)"\
-               % (self.radius, self.x, self.y)
+        return f"Circle of radius {self.radius} at ({self.x}, {self.y})"
