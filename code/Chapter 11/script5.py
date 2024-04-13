@@ -4,4 +4,5 @@ def main():
         if fileinput.isfirstline():
             print("<start of file {0}>".format(fileinput.filename()))
         print(line, end="")
-main()
+if __name__ == "__main__":
+    main()

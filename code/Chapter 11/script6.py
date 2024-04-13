@@ -27,4 +27,6 @@ def num2words(num_string):
 def main():                        
                               #1
     print(num2words(sys.argv[1]))
-main()
+
+if __name__ == "__main__":
+    main()

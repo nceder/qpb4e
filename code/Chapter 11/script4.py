@@ -3,4 +3,5 @@ def main():
     for line in fileinput.input():
         if not line.startswith('##'):
             print(line, end="")
-main()
+if __name__ == "__main__":
+    main()
