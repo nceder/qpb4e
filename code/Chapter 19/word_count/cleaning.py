@@ -7,8 +7,10 @@ def clean_line(line):
     """changes case and removes punctuation"""
     
     # raise exception if line is empty
-    if not line.strip():
-        raise EmptyStringError()
+    # uncomment to test EmptyStringError
+    #if not line.strip():
+    #    raise EmptyStringError()
+    
     # make all one case
     cleaned_line = line.lower()
         
