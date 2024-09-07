@@ -1,0 +1,10 @@
+"Notes","State","State Code","Month Day, Year","Month Day, Year Code",Avg Daily Max Air Temperature (F),Record Count for Daily Max Air Temp (F),Min Temp for Daily Max Air Temp (F),Max Temp for Daily Max Air Temp (F),Avg Daily Min Air Temperature (F),Record Count for Daily Min Air Temp (F),Min Temp for Daily Min Air Temp (F),Max Temp for Daily Min Air Temp (F),Avg Daily Max Heat Index (F),Record Count for Daily Max Heat Index (F),Min for Daily Max Heat Index (F),Max for Daily Max Heat Index (F),Daily Max Heat Index (F) % Coverage
+,"Illinois","17","Jan 01, 1979","1979/01/01",17.48,994,6.00,30.50,2.89,994,-13.60,15.80,Missing,0,Missing,Missing,0.00%
+,"Illinois","17","Jan 02, 1979","1979/01/02",4.64,994,-6.40,15.80,-9.03,994,-23.60,6.60,Missing,0,Missing,Missing,0.00%
+,"Illinois","17","Jan 03, 1979","1979/01/03",11.05,994,-0.70,24.70,-2.17,994,-18.30,12.90,Missing,0,Missing,Missing,0.00%
+,"Illinois","17","Jan 04, 1979","1979/01/04",9.51,994,0.20,27.60,-0.43,994,-16.30,16.30,Missing,0,Missing,Missing,0.00%
+,"Illinois","17","May 15, 1979","1979/05/15",68.42,994,61.00,75.10,51.30,994,43.30,57.00,Missing,0,Missing,Missing,0.00%
+,"Illinois","17","May 16, 1979","1979/05/16",70.29,994,63.40,73.50,48.09,994,41.10,53.00,Missing,0,Missing,Missing,0.00%
+,"Illinois","17","May 17, 1979","1979/05/17",75.34,994,64.00,80.50,50.84,994,44.30,55.70,82.60,2,82.40,82.80,0.20%
+,"Illinois","17","May 18, 1979","1979/05/18",79.13,994,75.50,82.10,55.68,994,50.00,61.10,81.42,349,80.20,83.40,35.11%
+,"Illinois","17","May 19, 1979","1979/05/19",74.94,994,66.90,83.10,58.59,994,50.90,63.20,82.87,78,81.60,85.20,7.85%
