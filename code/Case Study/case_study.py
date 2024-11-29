@@ -339,6 +339,8 @@ While I might care more about the metadata fields for more serious research, for
 There are a number of ways I could sift through the stations file to find the one station that matches the station ID I selected above. I could create a for loop to go through each line and break out when I found it, I could split the data into lines, and the sort and use a binary search, and so on. And depending on the nature and amount of data one approach or another might be appropriate. In this case, since I have the data loaded already and it's not too large, my preference would be to use a list comprehension to return a list with it's one element being the station I'm looking for.
 """
 
+from collections import namedtuple
+
 station_id = 'USC00110338'
 
 # parse stations
