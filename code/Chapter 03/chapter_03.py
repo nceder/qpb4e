@@ -445,7 +445,7 @@ wo.words_occur()
 
 """
 
-import imp
+import importlib as imp
 imp.reload(wo)
 
 """#3.4 Object oriented programming
