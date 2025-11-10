@@ -24,7 +24,7 @@ class C(SC):
         return "private method: self.__pm()"
     def m(self, p="parameter: p"):
         lv = "local variable: lv"
-        self.iv = "instance variable: self.xi"
+        self.iv = "instance variable: self.iv"
         print("Access local, global and built-in "               "namespaces directly")
         print("local namespace:", list(locals().keys()))
         print(p)                                               #A
