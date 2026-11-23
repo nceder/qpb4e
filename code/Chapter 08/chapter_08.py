@@ -203,7 +203,7 @@ print(new_x)
 
 odd_100 = (x for x in range(100) if x % 2)
 for i in odd_100:
-    print(i))
+    print(i)
 
 """Write the code to create a dictionary of the numbers and their cubes from 11 through 15."""
 
